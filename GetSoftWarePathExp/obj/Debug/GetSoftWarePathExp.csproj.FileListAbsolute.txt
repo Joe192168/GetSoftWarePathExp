@@ -1,0 +1,9 @@
+D:\VS\source\GetSoftWarePathExp\GetSoftWarePathExp\bin\Debug\GetSoftWarePathExp.exe.config
+D:\VS\source\GetSoftWarePathExp\GetSoftWarePathExp\bin\Debug\GetSoftWarePathExp.exe
+D:\VS\source\GetSoftWarePathExp\GetSoftWarePathExp\bin\Debug\GetSoftWarePathExp.pdb
+D:\VS\source\GetSoftWarePathExp\GetSoftWarePathExp\obj\Debug\GetSoftWarePathExp.csprojAssemblyReference.cache
+D:\VS\source\GetSoftWarePathExp\GetSoftWarePathExp\obj\Debug\GetSoftWarePathExp.Form1.resources
+D:\VS\source\GetSoftWarePathExp\GetSoftWarePathExp\obj\Debug\GetSoftWarePathExp.Properties.Resources.resources
+D:\VS\source\GetSoftWarePathExp\GetSoftWarePathExp\obj\Debug\GetSoftWarePathExp.csproj.GenerateResource.cache
+D:\VS\source\GetSoftWarePathExp\GetSoftWarePathExp\obj\Debug\GetSoftWarePathExp.exe
+D:\VS\source\GetSoftWarePathExp\GetSoftWarePathExp\obj\Debug\GetSoftWarePathExp.pdb
