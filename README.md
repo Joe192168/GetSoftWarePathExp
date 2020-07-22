@@ -1,0 +1,2 @@
+# GetSoftWarePathExp
+根据软件名称获取注册表软件的安装路径
